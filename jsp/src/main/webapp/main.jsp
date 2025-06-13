@@ -8,8 +8,7 @@
 </head>
 <body>
 
-jsp 프로젝트(변경)
-user1 브랜치 생성
+main.jsp 파일(user1브랜치) 
 
 </body>
 </html>
